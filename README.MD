@@ -466,7 +466,7 @@ Para dúvidas, sugestões ou interesse em implementação:
 ## 🔄 Versão
 
 **Versão:** 1.0.0  
-**Data:** Novembro de 2025  
+**Data:** Julho de 2025  
 **Status:** Projeto Final - Concluído
 
 ---

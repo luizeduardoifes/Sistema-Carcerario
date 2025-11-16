@@ -439,7 +439,7 @@ Este sistema foi desenvolvido com o objetivo de oferecer uma solução robusta p
 
 ## 🤝 Contribuidores
 
-- **Desenvolvimento:** Estudantes do Curso Técnico em Informática
+- **Desenvolvimento:** Luiz Eduardo Lima Balbino,Gabriel Biancardi e Igor Gomes Menegazzi
 - **Orientação:** Prof. Ricardo Maroquio
 - **Instituição:** IFES Campus Cachoeiro de Itapemirim - ES
 
